@@ -43,5 +43,5 @@ The dataset contains 2357 images of malignant and benign oncological diseases, s
     - Evaluate model performance and analyze for improvements.
 
 ## Files Included
-- `main.ipynb`: Jupyter notebook containing the code implementation of the project.
+- `Starter_code_Assignment_CNN_Skin_Cancer.ipynb`: Jupyter notebook containing the code implementation of the project.
 - `README.md`: Markdown file providing an overview of the project and its pipeline.
